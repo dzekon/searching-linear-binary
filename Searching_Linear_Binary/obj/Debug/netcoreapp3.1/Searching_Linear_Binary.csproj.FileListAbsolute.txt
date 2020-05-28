@@ -1,0 +1,13 @@
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\bin\Debug\netcoreapp3.1\Searching_Linear_Binary.exe
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\bin\Debug\netcoreapp3.1\Searching_Linear_Binary.deps.json
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\bin\Debug\netcoreapp3.1\Searching_Linear_Binary.runtimeconfig.json
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\bin\Debug\netcoreapp3.1\Searching_Linear_Binary.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\bin\Debug\netcoreapp3.1\Searching_Linear_Binary.dll
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\bin\Debug\netcoreapp3.1\Searching_Linear_Binary.pdb
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\obj\Debug\netcoreapp3.1\Searching_Linear_Binary.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\obj\Debug\netcoreapp3.1\Searching_Linear_Binary.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\obj\Debug\netcoreapp3.1\Searching_Linear_Binary.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\obj\Debug\netcoreapp3.1\Searching_Linear_Binary.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\obj\Debug\netcoreapp3.1\Searching_Linear_Binary.dll
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\obj\Debug\netcoreapp3.1\Searching_Linear_Binary.pdb
+C:\Users\Kacper\source\repos\Searching_Linear_Binary\Searching_Linear_Binary\obj\Debug\netcoreapp3.1\Searching_Linear_Binary.genruntimeconfig.cache
